@@ -1,2 +1,2 @@
-# cmsc124_module3_v1
-CMSC124 Lab 3 repository
+I am editing the README file. Adding some more details about the project description.
+
